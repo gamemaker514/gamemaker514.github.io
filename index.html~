@@ -1,0 +1,15 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Color Change</title>
+<link rel="stylesheet"  href="main.css">
+</head> 
+<body>
+
+<h1> A game based off of Color Switch. It's an all new and simple Color Switch minigame.</h1>
+<p>  This  game is a simple and easy way to play Color Switch without downloading the game. This game plays by the same rules. Use space to jump. Click the CHARACTERS option to open character selection. Click the START GAME option to start the game. Get the highest score.</p>
+            <div align="center"><iframe allowtransparency="true" width="500" height="417" src="https://scratch.mit.edu/projects/embed/114989039/?autostart=false" frameborder="0" allowfullscreen></iframe></div>
+    
+
+</body> 
+</html>

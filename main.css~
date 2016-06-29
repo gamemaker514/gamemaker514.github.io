@@ -1,0 +1,18 @@
+body{
+background-image: url("tiledbackground.jpg");
+}
+h1{
+color:#00ffcc;
+text-align:center;
+font-size:72px;
+}
+h2{
+color:#00ffcc;
+text-align:center;
+font-size:72px;
+}
+p{
+color:#ffffff;
+font-family:"Arial Black";
+font-size:36px;
+}

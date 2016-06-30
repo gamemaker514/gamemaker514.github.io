@@ -16,3 +16,9 @@ color:#ffffff;
 font-family:"Arial Black";
 font-size:36px;
 }
+
+.navbar a{
+color: #ff0000;
+font-size: 26px;
+text-align: center;
+}

@@ -1,12 +1,20 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+<ul>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
 <title>Color Change</title>
+<link rel="icon" href="webpic.png" type="image/png" sizes="16x16">
 <link rel="stylesheet"  href="main.css">
 </head> 
 <body>
 
-<h1> A game based off of Color Switch. It's an all new and simple Color Switch minigame.</h1>
+<h1>Color Change</h1>
+<h2> A game based off of Color Switch. It's an all new and simple Color Switch minigame.</h2>
 <p>  This  game is a simple and easy way to play Color Switch without downloading the game. This game plays by the same rules. Use space to jump. Click the CHARACTERS option to open character selection. Click the START GAME option to start the game. Get the highest score.</p>
             <div align="center"><iframe allowtransparency="true" width="500" height="417" src="https://scratch.mit.edu/projects/embed/114989039/?autostart=false" frameborder="0" allowfullscreen></iframe></div>
     
